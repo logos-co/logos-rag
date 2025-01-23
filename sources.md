@@ -7,6 +7,7 @@ This document lists the sources (and their consumption status) of the Logos Chat
 	- [ ] Booking Policy
 	- [ ] Legal Entity Information
 - [ ] This Repository (self awareness)
+- [ ] Contributor handbook
 
 ### Logos
 - [x] https://roadmap.logos.co - main files ✅ 2025-01-08
