@@ -1,21 +1,36 @@
 This document lists the sources (and their consumption status) of the Logos Chatbot
+### IFT
+- [ ] Finance team documentation
+	- [ ] How to submit expenses
+	- [ ] FAQ
+	- [ ] Announcements
+	- [ ] Booking Policy
+	- [ ] Legal Entity Information
+- [ ] This Repository (self awareness)
+
 ### Logos
 - [x] https://roadmap.logos.co - main files ✅ 2025-01-08
+	- NOTE: consumes raw respository, so doesn't provide reference links. 
 - [ ] Logos wiki
+- [ ] Operator documentation
+	- NOTE: this is to merge with the Operator OP1 AI
 
 ### Codex
 - [x] https://roadmap.logos.co - Codex section ✅ 2025-01-08
 	- The Codex section is not up to date since July 2024
-- [ ] Discord - awaiting discord bot access
-	- [ ] stand-ups channel
-	- [ ] github channel
-- [ ] Code website
+- [x] Discord - awaiting discord bot access
+	- NOTE: only last 100 messages so far, no automation.
+	- [x] stand-ups channel
+	- [x] github channel
+- [ ] Codex website
+- [ ] Github Repos
 
 ### Nomos
 - [ ] https://roadmap.logos.co - Nomos section
 	- [x] updates ✅ 2025-01-08
-	- [ ] the rest
+	- [/] the rest
 - [ ] Milestones from Notion
+	- NOTE: workflow createad to get one page, working on recursive and structuring
 - [ ] Nomos website
 
 ### Waku
@@ -29,15 +44,19 @@ This document lists the sources (and their consumption status) of the Logos Chat
 
 ### Vac
 - [ ] https://roadmap.vac.dev - entire repo
+	- NOTE: consumes raw respository, so doesn't provide reference links. 	
 - [ ] NCTs from Notion
 - [ ] RFCs
 - [ ] Vac website
 
 ### Status
+- [ ] Status Website
 - [ ] Notion weeklies
 
 ### Keycard
+- [ ] Keycard Website
 - [ ] Notion Weeklies
 
 ### Status Chain
+- [ ] Notion Section
 - [ ] Notion Weeklies
