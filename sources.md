@@ -15,6 +15,7 @@ This document lists the sources (and their consumption status) of the Logos Chat
 - [ ] Logos wiki
 - [ ] Operator documentation
 	- NOTE: this is to merge with the Operator OP1 AI
+- [x] Logos Website
 
 ### Codex
 - [x] https://roadmap.logos.co - Codex section ✅ 2025-01-08

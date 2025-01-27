@@ -1,5 +1,10 @@
 The Logos Chatbot is constructed as a Retrieval Augmented Generation (RAG) Large Language Model (LLM). More specifically, the RAG workflow is modeled after a blog post from Anthropic on [Contextual Retrieval](https://www.anthropic.com/news/contextual-retrieval).  This is to aid in ensuring that the resultant LLM is more proficient at providing up-to-date and accurate answers when asked about anything that's happening with the [Institute of Free Technology](https://free.technology)(IFT). It is automatically fed updated information about the projects and their progress. For more specific information, please view the [sources](sources.md) document that tracks what is consumed and its current state. 
 
+### Site
+https://ask.free.technology
+
+You will need to sign in with your Org Keycloak auth.
+
 ### Why was this created?
 Easy! AI is all the rage. 
 
