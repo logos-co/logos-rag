@@ -42,7 +42,12 @@ This document lists the sources (and their consumption status) of the Logos Chat
 	- [ ] [https://blog.waku.org/explanation-series-a-unified-stack-for-scalable-and-reliable-p2p-communication/](https://blog.waku.org/explanation-series-a-unified-stack-for-scalable-and-reliable-p2p-communication/ "https://blog.waku.org/explanation-series-a-unified-stack-for-scalable-and-reliable-p2p-communication/")  
 	- [ ] [https://blog.waku.org/explanation-series-light-protocols-and-edge-nodes/](https://blog.waku.org/explanation-series-light-protocols-and-edge-nodes/ "https://blog.waku.org/explanation-series-light-protocols-and-edge-nodes/") 
 	- [ ] [https://blog.waku.org/explanation-series-rln-relay/](https://blog.waku.org/explanation-series-rln-relay/ "https://blog.waku.org/explanation-series-rln-relay/")
+    - [_] All blog posts.
 - [ ] Waku website
+- [ ] GitHub
+  - [ ] GitHub issues in pm repo
+  - [ ] GitHub issues in other repos
+  - [ ] code?
 
 ### Vac
 - [ ] https://roadmap.vac.dev - entire repo
