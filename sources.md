@@ -24,7 +24,7 @@ This document lists the sources (and their consumption status) of the Logos Chat
 	- NOTE: only last 100 messages so far, no automation.
 	- [x] stand-ups channel
 	- [x] github channel
-- [ ] Codex website
+- [x] Codex website
 - [ ] Github Repos
 
 ### Nomos
@@ -33,7 +33,8 @@ This document lists the sources (and their consumption status) of the Logos Chat
 	- [/] the rest
 - [ ] Milestones from Notion
 	- NOTE: workflow createad to get one page, working on recursive and structuring
-- [ ] Nomos website
+- [x] Nomos website
+- [x] Nomos blogs
 
 ### Waku
 - [x] https://roadmap.logos.co - Waku section ✅ 2025-01-08
