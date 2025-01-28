@@ -8,6 +8,7 @@ This document lists the sources (and their consumption status) of the Logos Chat
 	- [ ] Legal Entity Information
 - [ ] This Repository (self awareness)
 - [ ] Contributor handbook
+- [ ] Service team NCTs
 
 ### Logos
 - [x] https://roadmap.logos.co - main files ✅ 2025-01-08
@@ -28,9 +29,9 @@ This document lists the sources (and their consumption status) of the Logos Chat
 - [ ] Github Repos
 
 ### Nomos
-- [ ] https://roadmap.logos.co - Nomos section
+- [x] https://roadmap.logos.co - Nomos section
 	- [x] updates ✅ 2025-01-08
-	- [/] the rest
+	- [x] the rest
 - [ ] Milestones from Notion
 	- NOTE: workflow createad to get one page, working on recursive and structuring
 - [x] Nomos website
@@ -39,11 +40,7 @@ This document lists the sources (and their consumption status) of the Logos Chat
 ### Waku
 - [x] https://roadmap.logos.co - Waku section ✅ 2025-01-08
 	- [x] includes Milestones ✅ 2025-01-08
-- [ ] blogs
-	- [ ] [https://blog.waku.org/explanation-series-a-unified-stack-for-scalable-and-reliable-p2p-communication/](https://blog.waku.org/explanation-series-a-unified-stack-for-scalable-and-reliable-p2p-communication/ "https://blog.waku.org/explanation-series-a-unified-stack-for-scalable-and-reliable-p2p-communication/")  
-	- [ ] [https://blog.waku.org/explanation-series-light-protocols-and-edge-nodes/](https://blog.waku.org/explanation-series-light-protocols-and-edge-nodes/ "https://blog.waku.org/explanation-series-light-protocols-and-edge-nodes/") 
-	- [ ] [https://blog.waku.org/explanation-series-rln-relay/](https://blog.waku.org/explanation-series-rln-relay/ "https://blog.waku.org/explanation-series-rln-relay/")
-    - [_] All blog posts.
+- [x] https://blog.waku.org - uses `sitemap-posts.xml`
 - [x] Waku website
 - [ ] GitHub
   - [ ] GitHub issues in pm repo
@@ -51,11 +48,12 @@ This document lists the sources (and their consumption status) of the Logos Chat
   - [ ] code?
 
 ### Vac
-- [ ] https://roadmap.vac.dev - entire repo
+- [x] https://roadmap.vac.dev - entire repo
 	- NOTE: consumes raw respository, so doesn't provide reference links. 	
 - [ ] NCTs from Notion
 - [ ] RFCs
-- [ ] Vac website
+- [x] Vac website
+  - [x] Vac blog
 
 ### Status
 - [ ] Status Website
