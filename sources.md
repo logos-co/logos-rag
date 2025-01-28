@@ -43,7 +43,7 @@ This document lists the sources (and their consumption status) of the Logos Chat
 	- [ ] [https://blog.waku.org/explanation-series-light-protocols-and-edge-nodes/](https://blog.waku.org/explanation-series-light-protocols-and-edge-nodes/ "https://blog.waku.org/explanation-series-light-protocols-and-edge-nodes/") 
 	- [ ] [https://blog.waku.org/explanation-series-rln-relay/](https://blog.waku.org/explanation-series-rln-relay/ "https://blog.waku.org/explanation-series-rln-relay/")
     - [_] All blog posts.
-- [ ] Waku website
+- [x] Waku website
 - [ ] GitHub
   - [ ] GitHub issues in pm repo
   - [ ] GitHub issues in other repos
