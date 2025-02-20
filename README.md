@@ -16,3 +16,7 @@ This isn't sustainable, so we have created a bot that serves as a great source o
 The chatbot is constructed as an [n8n](https://n8n.com) workflow connected to a self-hosted instance of [open-webui](https://github.com/open-webui/open-webui). In fact all the automations of the project are also n8n workflows and can be found in the [workflows](./workflows) directory (Not there yet, waiting for port to IFT infrastructure). 
 
 For now, we use Claude 3.5 (both Sonnet and Haiku) API endpoints for the LLM and use our automation workflows to add contextual vectors from various sources to keep the knowledgebase up to date. There will be an additional effort to leverage all open-source and privately hosted models in the future such that this project is self-contained and hosted by the IFT. 
+
+## RAG strategy resources
+- [Optimizing RAG: advanced chunking techniques analysis](https://antematter.io/blogs/optimizing-rag-advanced-chunking-techniques-study)
+- https://medium.com/kx-systems/late-chunking-vs-contextual-retrieval-the-math-behind-rags-context-problem-d5a26b9bbd38
